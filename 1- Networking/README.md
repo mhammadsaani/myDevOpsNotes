@@ -61,7 +61,9 @@ Data needs to be transmitted from one end system to another over a medium.
 There are two kinds of media
  - Guided
  - Unguided
+ 
 1- Guided: A medium in which the signal is transported on a
 defined pathway is called guided like Fibre Optics
+
 2- Unguided: Means of transmission that are not bound by a confined pathway are called
 unguided media, such as radio waves.
