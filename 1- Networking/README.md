@@ -67,3 +67,6 @@ defined pathway is called guided like Fibre Optics
 
 2- Unguided: Means of transmission that are not bound by a confined pathway are called
 unguided media, such as radio waves.
+
+### ***Socket***
+Socket is the combination of IP address and Port
