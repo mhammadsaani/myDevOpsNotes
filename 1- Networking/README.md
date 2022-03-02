@@ -70,3 +70,9 @@ unguided media, such as radio waves.
 
 ### ***Socket***
 Socket is the combination of IP address and Port
+
+### ***Switch***
+It is used to help communication of devices within LAN. It knows the IP address of all the devices. 
+
+### ***Router***
+Sits between LAN and WAN. It helps communication of devices outside of LAN.
