@@ -1,2 +1,2 @@
 # Linux
-- [ ] Shell Scripting Added
+- [x] Shell Scripting Added
