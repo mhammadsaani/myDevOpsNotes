@@ -31,8 +31,7 @@
 ### Day 5
 - Nothing 😶
 
-
-
+### Weekend
 
 
 This repo contains the notes && resources regarding my DevOps Journey
