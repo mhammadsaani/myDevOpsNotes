@@ -33,6 +33,9 @@
 
 ### Weekend
 
+### Day 6
+- Revised All Previous Work
+
 
 This repo contains the notes && resources regarding my DevOps Journey
 
