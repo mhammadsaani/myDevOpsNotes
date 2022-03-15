@@ -36,6 +36,10 @@
 ### Day 6
 - Revised All Previous Work
 
+### Day 7
+- Did my first ever project using docker image (Used Mongo and Mongo-Express for building a simple node.js project)
+- Did the same project using docker-compose
+
 
 This repo contains the notes && resources regarding my DevOps Journey
 
