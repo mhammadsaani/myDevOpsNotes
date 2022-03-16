@@ -40,6 +40,9 @@
 - Did my first ever project using docker image (Used Mongo and Mongo-Express for building a simple node.js project)
 - Did the same project using docker-compose
 
+### Day 8
+- Nothing
+
 
 This repo contains the notes && resources regarding my DevOps Journey
 
