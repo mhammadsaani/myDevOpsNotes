@@ -43,6 +43,23 @@
 ### Day 8
 - Nothing
 
+### Day 9
+
+Day 7
+Started learning ***aws*** and learnt about basic concepts
+Like 
+- Cloud Computing
+- Evolution of Cloud Hosting
+- Cloud Service Providers
+And so on.
+
+
+
+
+
+
+
+
 
 This repo contains the notes && resources regarding my DevOps Journey
 
