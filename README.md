@@ -43,15 +43,21 @@
 ### Day 8
 - Nothing
 
-### Day 9
-
-Day 7
+### Day 7*
 Started learning ***aws*** and learnt about basic concepts
 Like 
 - Cloud Computing
 - Evolution of Cloud Hosting
 - Cloud Service Providers
 And so on.
+
+### Day 8
+Indeed a productive day.
+
+- Explorer AWS Cloud Further
+- Read some blogs by on [Kubesimply](https://kubesimplify.com/)
+
+- Started coding again after a month
 
 
 
