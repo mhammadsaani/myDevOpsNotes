@@ -60,17 +60,14 @@ Indeed a productive day.
 - Started coding again after a month
 
 
+***
 
+What this Repo Contains?
 
-
-
-
-
-
-This repo contains the notes && resources regarding my DevOps Journey
-
-- Networking
-- Linux
-  - YAML
-- Kubernetes
-- Docker
+<details> <summary> This repo contains the notes && resources regarding my DevOps Journey </summary>
+   - Networking
+   - Linux
+   - YAML
+   - Kubernetes
+   - Docker 
+ </details>
