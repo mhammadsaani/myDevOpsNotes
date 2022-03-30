@@ -59,6 +59,10 @@ Indeed a productive day.
 
 - Started coding again after a month
 
+### Day 9
+- Strictly give 3 hours exploring #aws concepts
+- Read some blogs
+- Explore organization regarding GSOC'22
 
 ***
 
