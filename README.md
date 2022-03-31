@@ -64,6 +64,12 @@ Indeed a productive day.
 - Read some blogs
 - Explore organization regarding GSOC'22
 
+
+### Day 10
+- Focused on Revising Python
+- Done Revision of All AWS concepts Learned till yesterday
+- Solved Some Python Problems
+
 ***
 
 What this Repo Contains?
