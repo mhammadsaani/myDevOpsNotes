@@ -70,6 +70,9 @@ Indeed a productive day.
 - Done Revision of All AWS concepts Learned till yesterday
 - Solved Some Python Problems
 
+### Day 11
+- Holiday 🙂
+
 ***
 
 What this Repo Contains?
