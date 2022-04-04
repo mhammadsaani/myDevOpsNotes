@@ -76,6 +76,12 @@ Indeed a productive day.
 ### Day 12
 - Holiday
 
+### Day 11*
+- Studied AWS
+- Revised Linux Concepts
+- Docker revision
+
+
 ***
 
 What this Repo Contains?
