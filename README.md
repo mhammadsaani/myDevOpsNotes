@@ -81,6 +81,11 @@ Indeed a productive day.
 - Revised Linux Concepts
 - Docker revision
 
+### Day 12*
+Day we'll spent
+- Studied networking
+- Solved 2 leet code problem (Finally back on programming)
+- Write ✍️ notes because will soon be writing a blog on networking for DevOps. 
 
 ***
 
