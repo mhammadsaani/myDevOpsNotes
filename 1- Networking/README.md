@@ -76,3 +76,32 @@ It is used to help communication of devices within LAN. It knows the IP address 
 
 ### ***Router***
 Sits between LAN and WAN. It helps communication of devices outside of LAN.
+
+
+
+## OSI Model
+
+### Application Layer
+It reads data from the user and write off the data (send date) to transport layer. The application layer completely resides on End Systems. These end systems can be any internet device.
+
+All the text-based network apps (email),  voice over IP, (WhatsApp calls), video chat (Skype), and video streaming (YouTube) runs on application layer protocols. 
+
+#### Client Server Model
+
+***Server*** work is to control the access to a centralized resource like website.
+For this .Two important things are needed:
+1- They should be online 24/7
+2- They should have a reliable IP through which they can be accessed/reached
+
+***Client*** process usually initiate the connection to access centralized resource which is on the internet.
+
+Server wait for the requests from client
+
+#### Program Vs Process Vs Thread
+
+A program is simply an executable file. An application such as MS Word is one example.
+A process is any currently running instance of a program. So one program can have several copies of it running at once. One MS Word program can have multiple open windows.
+A thread is a lightweight process. One process can have multiple running threads. The difference between threads and processes is that threads do lightweight singular jobs.
+
+Microsoft Docs is a program, Editing a docs is Process, Saving an image/setting a font is a thread 
+
