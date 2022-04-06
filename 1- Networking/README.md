@@ -102,7 +102,7 @@ A thread is a lightweight process. One process can have multiple running threads
 
 Microsoft Docs is a program, Editing a docs is Process, Saving an image/setting a font,  is a thread.
 
-IP address determines which end system to send data, ports determines which application on that end system to send data and Ephemeral Ports are used to determine which instance (process) to send data. 
+IP address determines which end system to send data, ports determines which application on that end system to send data and ***Ephemeral Ports*** are used to determine which instance (process) to send data. 
 
 ### HTTP Basics
 
