@@ -87,6 +87,13 @@ Day we'll spent
 - Solved 2 leet code problem (Finally back on programming)
 - Write ✍️ notes because will soon be writing a blog on networking for DevOps. 
 
+### Day 13
+- Learnt about Build Tools and Package Managers
+- Learnt about maven and gradle for building java apps
+- Learnt about for JS apps
+- Build a JS app & two Java Apps
+- Solved a LeetCode problem
+
 ***
 
 What this Repo Contains?
