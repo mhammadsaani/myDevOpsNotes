@@ -125,6 +125,7 @@ There are two types of HTTP messages
 ### HTTP Request Message
 
 A simple HTTP request message will look like this
+
 `
 GET /path/to/file/index.html HTTP/1.1
 Host: www.google.com
