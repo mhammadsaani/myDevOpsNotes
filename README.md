@@ -93,6 +93,7 @@ Day we'll spent
 - Learnt about for JS apps
 - Build a JS app & two Java Apps
 - Solved a LeetCode problem
+- Read About HTTP in detail
 
 ***
 
