@@ -87,8 +87,8 @@ All the text-based network apps (email),  voice over IP, (WhatsApp calls), video
 
 ***Server*** work is to control the access to a centralized resource like website.
 For this .Two important things are needed:
-1- They should be online 24/7
-2- They should have a reliable IP through which they can be accessed/reached
+- They should be online 24/7
+- They should have a reliable IP through which they can be accessed/reached
 
 ***Client*** process usually initiate the connection to access centralized resource which is on the internet.
 
@@ -117,6 +117,38 @@ There are two types of HTTP connections
 - Persistent (Use One TCP connection to serve all HTTP requests)
 - Non Persistent (Used one TCP connection to serve one request)
 
+There are two types of HTTP messages
+- HTTP request messages
+- HTTP response messages
 
 
+### HTTP Request Message
 
+A simple HTTP request message will look like this
+`
+GET /path/to/file/index.html HTTP/1.1
+Host: www.google.com
+Connection: close
+User-agent: Mozilla/5.0
+Accept-language: fr
+Accept: text/html
+`
+***Important Info***
+- HTTP messages are in plain ASCII text
+-  HTTP messages can have one or as many lines as needed
+-  The first line is called the ***request line*** while the rest are called ***header lines***
+
+The anatomy of Request Line is 
+- Method 
+   - GET
+   - POST
+   - HEAD 
+   - PUT 
+   - DELETE
+- URL
+- Version
+
+### Example 
+- Method -> GET 
+- URL -> /path/to/file/index.html
+- HTTP Version -> HTTP/1.1 
