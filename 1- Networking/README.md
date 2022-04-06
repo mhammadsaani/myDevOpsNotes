@@ -153,3 +153,9 @@ The anatomy of Request Line is
 - Method -> GET 
 - URL -> /path/to/file/index.html
 - HTTP Version -> HTTP/1.1 
+
+- GET -> Request Data from the server
+- POST -> Put Data on the server, you can consider it as when we submit a web form, the data in the form will go to database. This is done by POST
+- HEAD -> The HEAD method asks for a response identical to a GET request, but without the response body.
+- PUT ->  It puts data at a specific location. If the URI refers to an already existing resource, it’s replaced with the new one. If the URI does not point to an existing resource, then the server creates the resource with that URI.
+- DELETE -> DELETE deletes an object at a given URL.
