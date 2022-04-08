@@ -95,6 +95,8 @@ Day we'll spent
 - Solved a LeetCode problem
 - Read About HTTP in detail
 
+Day 15
+Nothing
 ***
 
 What this Repo Contains?
