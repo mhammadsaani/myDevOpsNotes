@@ -30,11 +30,8 @@ So, if you want a person to get something completely, then you are going to use 
  When you do not care if **100%** data is reaching to your friend or not, you use UDP like in case of **Video Conferencing**.
  
  ### ***HTTP***
-HyperText Transfer Protocol (HTTP) is a web protocol that defines the
-format of messages to be exchanged between web clients, e.g., web browsers
-and web servers and what action is to be taken in response to the message. Or in other terms,
-It is the rule via which your data is being transferred between a client and server.
-This is used by ***World Wide Web***.
+ HTTP is a client-server protocol that determines how web clients requests web pages from web servers and how web servers send them.
+ 
   - World Wide Web is collection of all the information/pages/documents which are interlinked meaning 
     we can go from one page to second, second to third and so on.
  
@@ -76,3 +73,90 @@ It is used to help communication of devices within LAN. It knows the IP address 
 
 ### ***Router***
 Sits between LAN and WAN. It helps communication of devices outside of LAN.
+
+
+
+## OSI Model
+
+### Application Layer
+It reads data from the user and write off the data (send date) to transport layer. The application layer completely resides on End Systems. These end systems can be any internet device.
+
+All the text-based network apps (email),  voice over IP, (WhatsApp calls), video chat (Skype), and video streaming (YouTube) runs on application layer protocols. 
+
+#### Client Server Model
+
+***Server*** work is to control the access to a centralized resource like website.
+For this .Two important things are needed:
+- They should be online 24/7
+- They should have a reliable IP through which they can be accessed/reached
+
+***Client*** process usually initiate the connection to access centralized resource which is on the internet.
+
+Server wait for the requests from client
+
+#### Program Vs Process Vs Thread
+
+A program is simply an executable file. An application such as MS Word is one example.
+A process is any currently running instance of a program. So one program can have several copies of it running at once. One MS Word program can have multiple open windows.
+A thread is a lightweight process. One process can have multiple running threads. The difference between threads and processes is that threads do lightweight singular jobs.
+
+Microsoft Docs is a program, Editing a docs is Process, Saving an image/setting a font,  is a thread.
+
+IP address determines which end system to send data, ports determines which application on that end system to send data and ***Ephemeral Ports*** are used to determine which instance (process) to send data. 
+
+### HTTP Basics
+
+Web pages are objects that consists of other objects. Object is basically a file like HTML, PNG, MP3 etc.
+and *HTTP* , as already mentioned, is a web protocol which defines how web clients requests web pages from web servers and how web servers responds them. 
+HTTP is a ***stateless protocol*** meaning that it does not store data of clients by default
+
+Application Layer protocols rely/depend on TCP and UDP which lies on lower layer. HTTP which is an application layer protocol relies on TCP. Relying on lower layer is the key feature in Layer architecture models. 
+
+TCP is connection oriented, meaning a connection has to be initiated in order to start communication of client with server.  
+There are two types of HTTP connections
+- Persistent (Use One TCP connection to serve all HTTP requests)
+- Non Persistent (Used one TCP connection to serve one request)
+
+There are two types of HTTP messages
+- HTTP request messages
+- HTTP response messages
+
+
+### HTTP Request Message
+
+A simple HTTP request message will look like this
+
+`
+GET /path/to/file/index.html HTTP/1.1
+Host: www.google.com
+Connection: close
+User-agent: Mozilla/5.0
+Accept-language: fr
+Accept: text/html
+`
+***Important Info***
+- HTTP messages are in plain ASCII text
+-  HTTP messages can have one or as many lines as needed
+-  The first line is called the ***request line*** while the rest are called ***header lines***
+
+The anatomy of Request Line is 
+- Method 
+   - GET
+   - POST
+   - HEAD 
+   - PUT 
+   - DELETE
+- URL
+- Version
+
+### Example 
+- Method -> GET 
+- URL -> /path/to/file/index.html
+- HTTP Version -> HTTP/1.1 
+
+- GET -> Request Data from the server
+- POST -> Put Data on the server, you can consider it as when we submit a web form, the data in the form will go to database. This is done by POST
+- HEAD -> The HEAD method asks for a response identical to a GET request, but without the response body.
+- PUT ->  It puts data at a specific location. If the URI refers to an already existing resource, it’s replaced with the new one. If the URI does not point to an existing resource, then the server creates the resource with that URI.
+- DELETE -> DELETE deletes an object at a given URL.
+>>>>>>> 503e9d6b177e9b7618adba719f9450707439a813
