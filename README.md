@@ -7,7 +7,7 @@ This repo contains the notes && resources regarding my DevOps Journey
   - YAML
 - Kubernetes
 - Docker
-=======
+
 # DevOps Journey
 
 ### Day 1
