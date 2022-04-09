@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DevOps Journey
 
 This repo contains the notes && resources regarding my DevOps Journey
@@ -119,4 +118,3 @@ What this Repo Contains?
    - Kubernetes
    - Docker 
  </details>
->>>>>>> 503e9d6b177e9b7618adba719f9450707439a813
