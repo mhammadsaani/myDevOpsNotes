@@ -105,8 +105,12 @@ Day we'll spent
 - Solved a LeetCode problem
 - Read About HTTP in detail
 
-Day 15
-Nothing
+### Day 14*
+- Learnt about Building image using Dockefile
+- Learnt about Deploying an image on Amazon ECR 
+- Solved 2 LeetCode Problems
+- Started writing a blog 
+
 ***
 
 What this Repo Contains?
