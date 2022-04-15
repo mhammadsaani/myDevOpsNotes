@@ -113,7 +113,11 @@ Day we'll spent
 
 ### Day 15
 - Learnt about SSH 
-- 
+- Completed Blog's Draft on topic Package Managers
+
+### Day 16
+- Started Learning Nexus
+- Revisit Build Tools and Package Managers 
 
 ***
 
