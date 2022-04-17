@@ -118,6 +118,8 @@ Day we'll spent
 ### Day 16
 - Started Learning Nexus
 - Revisit Build Tools and Package Managers 
+- Deployed a maven and Gradle project on Nexus
+
 
 ***
 
