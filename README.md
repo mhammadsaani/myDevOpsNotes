@@ -121,6 +121,8 @@ Day we'll spent
 - Deployed a maven and Gradle project on Nexus
 
 
+### Day 17
+- Docker Review
 ***
 
 What this Repo Contains?
