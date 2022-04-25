@@ -125,6 +125,8 @@ Day we'll spent
 - Docker Review
 ***
 
+### Rest Day 2
+
 What this Repo Contains?
 
 <details> <summary> This repo contains the notes && resources regarding my DevOps Journey </summary>
